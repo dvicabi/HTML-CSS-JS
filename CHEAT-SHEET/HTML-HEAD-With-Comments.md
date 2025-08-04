@@ -1,4 +1,5 @@
-<-- head --!>
+```html
+<head>
   <!-- 🔹 כותרת הדף -->
   <title>דף הבית של דביר</title>
 
@@ -155,3 +156,4 @@
   <!-- 🔹 סקריפט עם אימות hash -->
   <script src="secure.js" integrity="sha384-x123..." crossorigin="anonymous"></script>
 </head>
+```
